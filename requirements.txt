@@ -1,0 +1,4 @@
+flet
+numpy
+opencv-python-headless
+mediapipe
